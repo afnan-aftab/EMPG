@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/EMPG/static/js/main.2ed93033.chunk.js",
+    "main.js.map": "/EMPG/static/js/main.2ed93033.chunk.js.map",
+    "runtime-main.js": "/EMPG/static/js/runtime-main.b2aad687.js",
+    "runtime-main.js.map": "/EMPG/static/js/runtime-main.b2aad687.js.map",
+    "static/js/2.7689a167.chunk.js": "/EMPG/static/js/2.7689a167.chunk.js",
+    "static/js/2.7689a167.chunk.js.map": "/EMPG/static/js/2.7689a167.chunk.js.map",
+    "index.html": "/EMPG/index.html",
+    "static/js/2.7689a167.chunk.js.LICENSE.txt": "/EMPG/static/js/2.7689a167.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2aad687.js",
+    "static/js/2.7689a167.chunk.js",
+    "static/js/main.2ed93033.chunk.js"
+  ]
+}
